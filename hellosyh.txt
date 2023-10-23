@@ -1,4 +1,14 @@
-hello syh
-hello lirongrong
-hello git
-hello guigu
+helloevery
+
+#include <stdio.h>
+
+int main()
+{
+	for(i=0;i<10000000000000000;i++)
+	{
+	printf("苏毅汇真帅");
+	}
+
+	return 0;
+
+}
